@@ -2,7 +2,6 @@
 
 [![Preview](Resources/Images/preview_application.png)](https://personal-machine-230918.appspot.com/)
 
-by [Raul Maldonado](https://www.linkedin.com/in/raulm8/)
 
 [Click here to see the deployment via #GCP](https://personal-machine-230918.appspot.com/)
 
