@@ -26,7 +26,7 @@
 
 ![Youtube Views](Resources/Images/youtube.jpg)
 
-This is a redux of my [Youtube Analysis project](https://github.com/CloudChaoszero/Youtube-TrendsNMore) back in January 2018. 
+
 
 I utilizied Kaggle user Mitchell J's, [Trending Youtube Video dataset](https://www.kaggle.com/datasnaek/youtube-new) to answer the following questions:
 
@@ -48,20 +48,9 @@ Enjoy!
 
 ## Project Demo
 
-### Version 1 (2018)
-
-**Homepage**
-
-![Homepage](Resources/Images/homepage.png)
-
-**Database Search**
-
-![Database Search](Resources/Images/searchDB.png)
-
-### Version 1 (2018)
 
 
-<a name = "directory"/>
+
 
 ## (Recommended) Directory Infrastructure
 
